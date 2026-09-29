@@ -6,20 +6,21 @@ license: MIT
 repository-code: "https://github.com/wagino89/churn-3lensa"
 authors:
   - family-names: "Wagino"
-    email: "ginoftiuniska@gmail.com"
-  - family-names: "Ratna"
-    given-names: "Silvia"
-  - family-names: "Muflih"
-    given-names: "M."
+    email: "wagino@uniska-bjm.ac.id"
+    affiliation: "Islamic University of Kalimantan Muhammad Arsyad Al Banjari"
+  - family-names: "Arafat"
+    affiliation: "Islamic University of Kalimantan Muhammad Arsyad Al Banjari"
+  - family-names: "Alamsyah"
+    given-names: "Nur"
+    affiliation: "Islamic University of Kalimantan Muhammad Arsyad Al Banjari"
 preferred-citation:
   type: article
   title: "Resampling in Churn Prediction: A Leakage-Safe, Profit-Aware and Out-of-Time Evaluation"
   authors:
     - family-names: "Wagino"
-    - family-names: "Ratna"
-      given-names: "Silvia"
-    - family-names: "Muflih"
-      given-names: "M."
+    - family-names: "Arafat"
+    - family-names: "Alamsyah"
+      given-names: "Nur"
   journal: "International Journal of Computing"
   year: 2026
   status: submitted
