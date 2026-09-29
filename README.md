@@ -3,7 +3,7 @@
 Code, raw results and reproduction scripts for the paper
 
 > **Resampling in Churn Prediction: A Leakage-Safe, Profit-Aware and Out-of-Time Evaluation.**
-> Wagino, Silvia Ratna, M. Muflih. Submitted to the *International Journal of Computing*, 2026.
+> Wagino, Arafat, Nur Alamsyah. Submitted to the *International Journal of Computing*, 2026.
 
 The study evaluates twelve class-imbalance strategies (baseline, class weighting, threshold tuning, random
 over/undersampling, SMOTE at two ratios, ADASYN, SMOTE-ENN, Dirichlet ExtSMOTE, EasyEnsemble, and a deliberately
