@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "churn-3lensa: leakage-safe, profit-aware and out-of-time benchmark of imbalance handling for churn prediction"
+type: software
+license: MIT
+repository-code: "https://github.com/wagino89/churn-3lensa"
+authors:
+  - family-names: "Wagino"
+    email: "ginoftiuniska@gmail.com"
+  - family-names: "Ratna"
+    given-names: "Silvia"
+  - family-names: "Muflih"
+    given-names: "M."
+preferred-citation:
+  type: article
+  title: "Resampling in Churn Prediction: A Leakage-Safe, Profit-Aware and Out-of-Time Evaluation"
+  authors:
+    - family-names: "Wagino"
+    - family-names: "Ratna"
+      given-names: "Silvia"
+    - family-names: "Muflih"
+      given-names: "M."
+  journal: "International Journal of Computing"
+  year: 2026
+  status: submitted

@@ -1,0 +1,11 @@
+Strategy,ROC-AUC,F1,EMPC,Brier
+Class weighting,4 / 4,16 / 1,2 / 2,0 / 20
+Threshold tuning,0 / 0,15 / 0,0 / 0,0 / 0
+Random oversampling,2 / 5,17 / 1,2 / 3,1 / 19
+Random undersampling,2 / 20,9 / 15,2 / 17,0 / 25
+SMOTE (1.0),2 / 9,17 / 1,1 / 6,0 / 17
+SMOTE (0.5),3 / 4,18 / 0,2 / 3,0 / 12
+ADASYN,2 / 10,17 / 1,0 / 6,0 / 18
+SMOTE-ENN,3 / 12,12 / 13,6 / 12,0 / 25
+Dirichlet ExtSMOTE,1 / 8,13 / 2,2 / 5,0 / 13
+EasyEnsemble,9 / 7,9 / 13,8 / 12,0 / 25

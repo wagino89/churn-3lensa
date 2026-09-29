@@ -1,0 +1,23 @@
+{
+ "python": "3.12.13",
+ "numpy": "2.0.2",
+ "pandas": "2.3.3",
+ "scipy": "1.16.3",
+ "scikit-learn": "1.6.1",
+ "matplotlib": "3.10.0",
+ "imblearn": "0.14.1",
+ "xgboost": "3.2.0",
+ "lightgbm": "4.6.0",
+ "cpu_count": 4,
+ "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+ "part": "C",
+ "quick": false,
+ "hours_elapsed": 1.16,
+ "dataset_sources": {
+  "bank": "/kaggle/input/datasets/shrutimechlearn/churn-modelling/Churn_Modelling.csv",
+  "telco": "/kaggle/input/datasets/blastchar/telco-customer-churn/WA_Fn-UseC_-Telco-Customer-Churn.csv",
+  "bankchurners": "/kaggle/input/datasets/sakshigoyal7/credit-card-customers/BankChurners.csv",
+  "telecom_bigml": "/kaggle/input/datasets/becksddf/churn-in-telecoms-dataset/bigml_59c28831336c6604c800002a.csv",
+  "retail": "/kaggle/working/uci_retail/online_retail_II.xlsx"
+ }
+}

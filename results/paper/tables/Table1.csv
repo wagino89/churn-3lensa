@@ -1,0 +1,7 @@
+Dataset,Rows,Churn rate,Features
+IBM Telco,"7,043",26.5%,19
+Bank churn,"10,000",20.4%,10
+Credit card,"10,127",16.1%,19
+Iranian churn,"3,150",15.7%,13
+Telecom (BigML),"3,333",14.5%,19
+Online Retail II (snapshots),"48,085",50.9%,15

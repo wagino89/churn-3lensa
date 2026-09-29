@@ -1,0 +1,19 @@
+{
+ "python": "3.12.13",
+ "numpy": "2.0.2",
+ "pandas": "2.3.3",
+ "scipy": "1.16.3",
+ "scikit-learn": "1.6.1",
+ "matplotlib": "3.10.0",
+ "imblearn": "0.14.1",
+ "xgboost": "3.2.0",
+ "lightgbm": "4.6.0",
+ "cpu_count": 4,
+ "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+ "part": "C",
+ "quick": false,
+ "hours_elapsed": 1.29,
+ "dataset_sources": {
+  "retail": "/kaggle/working/uci_retail/online_retail_II.xlsx"
+ }
+}

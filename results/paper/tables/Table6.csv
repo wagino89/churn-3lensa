@@ -1,0 +1,6 @@
+Dataset,Correct,Leaky,ΔROC-AUC,ΔF1
+IBM Telco,0.835,0.919,+0.084,+0.240
+Bank churn,0.840,0.926,+0.086,+0.271
+Credit card,0.978,0.986,+0.007,+0.108
+Iranian churn,0.976,0.985,+0.008,+0.124
+Telecom (BigML),0.893,0.964,+0.071,+0.181
